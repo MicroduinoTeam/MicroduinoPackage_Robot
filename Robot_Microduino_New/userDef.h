@@ -12,7 +12,7 @@
 #endif
 
 #define BLE_SPEED 9600  //蓝牙接口速度
-#define NRF_CHANNEL 90  //nRF通道
+#define NRF_CHANNEL 70  //nRF通道
 
 #define CHANNEL_NUM   8
 #define SAFE_TIME_OUT 250   //失控保护时间
